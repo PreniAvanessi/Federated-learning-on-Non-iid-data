@@ -1,0 +1,4 @@
+Algorithm,Final Accuracy,Std Accuracy,Total Communication (MB),Communication per Round (MB),Runtime (s)
+FEDAVG,0.6934,0.0347,3546.63,118.22,4379.44
+FEDNOVA,0.1279,0.0473,3664.85,118.22,4932.75
+FEDPROX,0.6936,0.0503,3664.85,118.22,3605.97
